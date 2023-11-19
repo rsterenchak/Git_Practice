@@ -5,7 +5,8 @@ module.exports = {
   mode: "development",  
   entry: {
     index: './src/index.js',
-    print: './src/print.js',
+    sum: './src/sum.js',
+    capitalize: './src/capitalize.js',
   },
   devtool: 'inline-source-map',
   plugins: [
