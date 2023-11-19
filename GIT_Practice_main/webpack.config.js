@@ -7,6 +7,8 @@ module.exports = {
     index: './src/index.js',
     sum: './src/sum.js',
     capitalize: './src/capitalize.js',
+    reverseString: './src/reverseString.js',
+    calculator: './src/calculator.js',
   },
   devtool: 'inline-source-map',
   plugins: [
